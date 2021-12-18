@@ -12,3 +12,5 @@
 
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
+#sed -i 's/LuCI Master/LuCI Master coolsnowwolf-lean/g' package/base-files/files/bin/config_generate
+#sed -i 's/git-21.335.48743-5f363d9/git-21.335.48743-5f363d9 compile by Guhill/g' package/base-files/files/bin/config_generate
