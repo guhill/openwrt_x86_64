@@ -15,4 +15,3 @@
 
 # Modify default version
 sed -i 's/%R/%R compiled guhill/g' package/base-files/files/etc/openwrt_release
-
